@@ -1,2 +1,2 @@
 # Desafio_PHP
- Desafios de avaliativod em PHP dado pela faculdade (disciplina: Desenvolvimento Web) 
+ Desafios de avaliativos em PHP dado pela faculdade - A1 (disciplina: Desenvolvimento Web) 
